@@ -1,0 +1,434 @@
+Processing subfolder: https://tritrypdb.org/common/downloads/
+Failed to access https://tritrypdb.org/common/downloads/fasta/data/, Status Code: 404
+Genome Not Found for /common/downloads/
+Failed to access https://tritrypdb.org/common/downloads/gff/data/, Status Code: 404
+Annotation Not Found for /common/downloads/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Adeanai/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Adeanai/fasta/data/, Status Code: 404
+Genome Not Found for Adeanai/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Adeanai/gff/data/, Status Code: 404
+Annotation Not Found for Adeanai/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/AdeanaiCavalhoATCCPRA-265/
+Downloading https://tritrypdb.org/common/downloads/release-68/AdeanaiCavalhoATCCPRA-265/fasta/data/TriTrypDB-68_AdeanaiCavalhoATCCPRA-265_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/AdeanaiCavalhoATCCPRA-265/gff/data/TriTrypDB-68_AdeanaiCavalhoATCCPRA-265.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/BayalaiB08-376/
+Downloading https://tritrypdb.org/common/downloads/release-68/BayalaiB08-376/fasta/data/TriTrypDB-68_BayalaiB08-376_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/BayalaiB08-376/gff/data/TriTrypDB-68_BayalaiB08-376.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/BnonstopP57/
+Downloading https://tritrypdb.org/common/downloads/release-68/BnonstopP57/fasta/data/TriTrypDB-68_BnonstopP57_Genome.fasta
+Annotation Not Found for BnonstopP57/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Bodonidae/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Bodonidae/fasta/data/, Status Code: 404
+Genome Not Found for Bodonidae/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Bodonidae/gff/data/, Status Code: 404
+Annotation Not Found for Bodonidae/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/BodonidaeReference/
+Failed to access https://tritrypdb.org/common/downloads/release-68/BodonidaeReference/fasta/data/, Status Code: 404
+Genome Not Found for BodonidaeReference/
+Failed to access https://tritrypdb.org/common/downloads/release-68/BodonidaeReference/gff/data/, Status Code: 404
+Annotation Not Found for BodonidaeReference/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Bsaltans/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Bsaltans/fasta/data/, Status Code: 404
+Genome Not Found for Bsaltans/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Bsaltans/gff/data/, Status Code: 404
+Annotation Not Found for Bsaltans/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/BsaltansLakeKonstanz/
+Downloading https://tritrypdb.org/common/downloads/release-68/BsaltansLakeKonstanz/fasta/data/TriTrypDB-68_BsaltansLakeKonstanz_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/BsaltansLakeKonstanz/gff/data/TriTrypDB-68_BsaltansLakeKonstanz.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/CfasciculataCfCl/
+Downloading https://tritrypdb.org/common/downloads/release-68/CfasciculataCfCl/fasta/data/TriTrypDB-68_CfasciculataCfCl_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/CfasciculataCfCl/gff/data/TriTrypDB-68_CfasciculataCfCl.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Emonterogeii/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Emonterogeii/fasta/data/, Status Code: 404
+Genome Not Found for Emonterogeii/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Emonterogeii/gff/data/, Status Code: 404
+Annotation Not Found for Emonterogeii/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/EmonterogeiiLV88/
+Downloading https://tritrypdb.org/common/downloads/release-68/EmonterogeiiLV88/fasta/data/TriTrypDB-68_EmonterogeiiLV88_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/EmonterogeiiLV88/gff/data/TriTrypDB-68_EmonterogeiiLV88.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LaethiopicaL147/
+Downloading https://tritrypdb.org/common/downloads/release-68/LaethiopicaL147/fasta/data/TriTrypDB-68_LaethiopicaL147_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LaethiopicaL147/gff/data/TriTrypDB-68_LaethiopicaL147.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LamazonensisMHOMBR71973M2269/
+Downloading https://tritrypdb.org/common/downloads/release-68/LamazonensisMHOMBR71973M2269/fasta/data/TriTrypDB-68_LamazonensisMHOMBR71973M2269_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LamazonensisMHOMBR71973M2269/gff/data/TriTrypDB-68_LamazonensisMHOMBR71973M2269.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LamazonensisPH8/
+Downloading https://tritrypdb.org/common/downloads/release-68/LamazonensisPH8/fasta/data/TriTrypDB-68_LamazonensisPH8_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LamazonensisPH8/gff/data/TriTrypDB-68_LamazonensisPH8.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Larabica/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Larabica/fasta/data/, Status Code: 404
+Genome Not Found for Larabica/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Larabica/gff/data/, Status Code: 404
+Annotation Not Found for Larabica/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LarabicaLEM1108/
+Downloading https://tritrypdb.org/common/downloads/release-68/LarabicaLEM1108/fasta/data/TriTrypDB-68_LarabicaLEM1108_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LarabicaLEM1108/gff/data/TriTrypDB-68_LarabicaLEM1108.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Lbraziliensis/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lbraziliensis/fasta/data/, Status Code: 404
+Genome Not Found for Lbraziliensis/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lbraziliensis/gff/data/, Status Code: 404
+Annotation Not Found for Lbraziliensis/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LbraziliensisMHOMBR75M2903/
+Downloading https://tritrypdb.org/common/downloads/release-68/LbraziliensisMHOMBR75M2903/fasta/data/TriTrypDB-68_LbraziliensisMHOMBR75M2903_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LbraziliensisMHOMBR75M2903/gff/data/TriTrypDB-68_LbraziliensisMHOMBR75M2903.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LbraziliensisMHOMBR75M2904/
+Downloading https://tritrypdb.org/common/downloads/release-68/LbraziliensisMHOMBR75M2904/fasta/data/TriTrypDB-68_LbraziliensisMHOMBR75M2904_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LbraziliensisMHOMBR75M2904/gff/data/TriTrypDB-68_LbraziliensisMHOMBR75M2904.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LbraziliensisMHOMBR75M2904_2019/
+Downloading https://tritrypdb.org/common/downloads/release-68/LbraziliensisMHOMBR75M2904_2019/fasta/data/TriTrypDB-68_LbraziliensisMHOMBR75M2904_2019_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LbraziliensisMHOMBR75M2904_2019/gff/data/TriTrypDB-68_LbraziliensisMHOMBR75M2904_2019.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Ldonovani/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Ldonovani/fasta/data/, Status Code: 404
+Genome Not Found for Ldonovani/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Ldonovani/gff/data/, Status Code: 404
+Annotation Not Found for Ldonovani/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LdonovaniBHU1220/
+Downloading https://tritrypdb.org/common/downloads/release-68/LdonovaniBHU1220/fasta/data/TriTrypDB-68_LdonovaniBHU1220_Genome.fasta
+Annotation Not Found for LdonovaniBHU1220/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LdonovaniBPK282A1/
+Downloading https://tritrypdb.org/common/downloads/release-68/LdonovaniBPK282A1/fasta/data/TriTrypDB-68_LdonovaniBPK282A1_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LdonovaniBPK282A1/gff/data/TriTrypDB-68_LdonovaniBPK282A1.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LdonovaniCL-SL/
+Downloading https://tritrypdb.org/common/downloads/release-68/LdonovaniCL-SL/fasta/data/TriTrypDB-68_LdonovaniCL-SL_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LdonovaniCL-SL/gff/data/TriTrypDB-68_LdonovaniCL-SL.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LdonovaniHU3/
+Downloading https://tritrypdb.org/common/downloads/release-68/LdonovaniHU3/fasta/data/TriTrypDB-68_LdonovaniHU3_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LdonovaniHU3/gff/data/TriTrypDB-68_LdonovaniHU3.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LdonovaniLV9/
+Downloading https://tritrypdb.org/common/downloads/release-68/LdonovaniLV9/fasta/data/TriTrypDB-68_LdonovaniLV9_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LdonovaniLV9/gff/data/TriTrypDB-68_LdonovaniLV9.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Lenriettii/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lenriettii/fasta/data/, Status Code: 404
+Genome Not Found for Lenriettii/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lenriettii/gff/data/, Status Code: 404
+Annotation Not Found for Lenriettii/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LenriettiiLEM3045/
+Downloading https://tritrypdb.org/common/downloads/release-68/LenriettiiLEM3045/fasta/data/TriTrypDB-68_LenriettiiLEM3045_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LenriettiiLEM3045/gff/data/TriTrypDB-68_LenriettiiLEM3045.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LenriettiMCAVBR2001CUR178/
+Downloading https://tritrypdb.org/common/downloads/release-68/LenriettiMCAVBR2001CUR178/fasta/data/TriTrypDB-68_LenriettiMCAVBR2001CUR178_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LenriettiMCAVBR2001CUR178/gff/data/TriTrypDB-68_LenriettiMCAVBR2001CUR178.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Lgerbilli/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lgerbilli/fasta/data/, Status Code: 404
+Genome Not Found for Lgerbilli/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lgerbilli/gff/data/, Status Code: 404
+Annotation Not Found for Lgerbilli/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LgerbilliLEM452/
+Downloading https://tritrypdb.org/common/downloads/release-68/LgerbilliLEM452/fasta/data/TriTrypDB-68_LgerbilliLEM452_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LgerbilliLEM452/gff/data/TriTrypDB-68_LgerbilliLEM452.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Linfantum/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Linfantum/fasta/data/, Status Code: 404
+Genome Not Found for Linfantum/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Linfantum/gff/data/, Status Code: 404
+Annotation Not Found for Linfantum/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LinfantumJPCM5/
+Downloading https://tritrypdb.org/common/downloads/release-68/LinfantumJPCM5/fasta/data/TriTrypDB-68_LinfantumJPCM5_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LinfantumJPCM5/gff/data/TriTrypDB-68_LinfantumJPCM5.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Lmajor/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lmajor/fasta/data/, Status Code: 404
+Genome Not Found for Lmajor/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lmajor/gff/data/, Status Code: 404
+Annotation Not Found for Lmajor/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LmajorFriedlin/
+Downloading https://tritrypdb.org/common/downloads/release-68/LmajorFriedlin/fasta/data/TriTrypDB-68_LmajorFriedlin_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LmajorFriedlin/gff/data/TriTrypDB-68_LmajorFriedlin.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LmajorFriedlin2021/
+Downloading https://tritrypdb.org/common/downloads/release-68/LmajorFriedlin2021/fasta/data/TriTrypDB-68_LmajorFriedlin2021_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LmajorFriedlin2021/gff/data/TriTrypDB-68_LmajorFriedlin2021.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LmajorLV39c5/
+Downloading https://tritrypdb.org/common/downloads/release-68/LmajorLV39c5/fasta/data/TriTrypDB-68_LmajorLV39c5_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LmajorLV39c5/gff/data/TriTrypDB-68_LmajorLV39c5.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LmajorSD75.1/
+Downloading https://tritrypdb.org/common/downloads/release-68/LmajorSD75.1/fasta/data/TriTrypDB-68_LmajorSD75.1_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LmajorSD75.1/gff/data/TriTrypDB-68_LmajorSD75.1.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LmartiniquensisLEM2494/
+Downloading https://tritrypdb.org/common/downloads/release-68/LmartiniquensisLEM2494/fasta/data/TriTrypDB-68_LmartiniquensisLEM2494_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LmartiniquensisLEM2494/gff/data/TriTrypDB-68_LmartiniquensisLEM2494.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LmartiniquensisMHOMTH2012LSCM1/
+Downloading https://tritrypdb.org/common/downloads/release-68/LmartiniquensisMHOMTH2012LSCM1/fasta/data/TriTrypDB-68_LmartiniquensisMHOMTH2012LSCM1_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LmartiniquensisMHOMTH2012LSCM1/gff/data/TriTrypDB-68_LmartiniquensisMHOMTH2012LSCM1.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Lmexicana/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lmexicana/fasta/data/, Status Code: 404
+Genome Not Found for Lmexicana/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lmexicana/gff/data/, Status Code: 404
+Annotation Not Found for Lmexicana/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LmexicanaMHOMGT2001U1103/
+Downloading https://tritrypdb.org/common/downloads/release-68/LmexicanaMHOMGT2001U1103/fasta/data/TriTrypDB-68_LmexicanaMHOMGT2001U1103_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LmexicanaMHOMGT2001U1103/gff/data/TriTrypDB-68_LmexicanaMHOMGT2001U1103.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Lorientalis/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lorientalis/fasta/data/, Status Code: 404
+Genome Not Found for Lorientalis/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lorientalis/gff/data/, Status Code: 404
+Annotation Not Found for Lorientalis/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LorientalisMHOMTH2014LSCM4/
+Downloading https://tritrypdb.org/common/downloads/release-68/LorientalisMHOMTH2014LSCM4/fasta/data/TriTrypDB-68_LorientalisMHOMTH2014LSCM4_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LorientalisMHOMTH2014LSCM4/gff/data/TriTrypDB-68_LorientalisMHOMTH2014LSCM4.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Lpanamensis/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lpanamensis/fasta/data/, Status Code: 404
+Genome Not Found for Lpanamensis/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lpanamensis/gff/data/, Status Code: 404
+Annotation Not Found for Lpanamensis/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LpanamensisMHOMCOL81L13/
+Downloading https://tritrypdb.org/common/downloads/release-68/LpanamensisMHOMCOL81L13/fasta/data/TriTrypDB-68_LpanamensisMHOMCOL81L13_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LpanamensisMHOMCOL81L13/gff/data/TriTrypDB-68_LpanamensisMHOMCOL81L13.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LpanamensisMHOMPA94PSC1/
+Downloading https://tritrypdb.org/common/downloads/release-68/LpanamensisMHOMPA94PSC1/fasta/data/TriTrypDB-68_LpanamensisMHOMPA94PSC1_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LpanamensisMHOMPA94PSC1/gff/data/TriTrypDB-68_LpanamensisMHOMPA94PSC1.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Lpyrrhocoris/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lpyrrhocoris/fasta/data/, Status Code: 404
+Genome Not Found for Lpyrrhocoris/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lpyrrhocoris/gff/data/, Status Code: 404
+Annotation Not Found for Lpyrrhocoris/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LpyrrhocorisH10/
+Downloading https://tritrypdb.org/common/downloads/release-68/LpyrrhocorisH10/fasta/data/TriTrypDB-68_LpyrrhocorisH10_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LpyrrhocorisH10/gff/data/TriTrypDB-68_LpyrrhocorisH10.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Lseymouri/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lseymouri/fasta/data/, Status Code: 404
+Genome Not Found for Lseymouri/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lseymouri/gff/data/, Status Code: 404
+Annotation Not Found for Lseymouri/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LseymouriATCC30220/
+Downloading https://tritrypdb.org/common/downloads/release-68/LseymouriATCC30220/fasta/data/TriTrypDB-68_LseymouriATCC30220_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LseymouriATCC30220/gff/data/TriTrypDB-68_LseymouriATCC30220.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Lsp.Ghana/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lsp.Ghana/fasta/data/, Status Code: 404
+Genome Not Found for Lsp.Ghana/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lsp.Ghana/gff/data/, Status Code: 404
+Annotation Not Found for Lsp.Ghana/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Lsp.GhanaMHOMGH2012GH5/
+Downloading https://tritrypdb.org/common/downloads/release-68/Lsp.GhanaMHOMGH2012GH5/fasta/data/TriTrypDB-68_Lsp.GhanaMHOMGH2012GH5_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/Lsp.GhanaMHOMGH2012GH5/gff/data/TriTrypDB-68_Lsp.GhanaMHOMGH2012GH5.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Lsp.Namibia/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lsp.Namibia/fasta/data/, Status Code: 404
+Genome Not Found for Lsp.Namibia/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lsp.Namibia/gff/data/, Status Code: 404
+Annotation Not Found for Lsp.Namibia/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Lsp.NamibiaMPRONA1975252LV425/
+Downloading https://tritrypdb.org/common/downloads/release-68/Lsp.NamibiaMPRONA1975252LV425/fasta/data/TriTrypDB-68_Lsp.NamibiaMPRONA1975252LV425_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/Lsp.NamibiaMPRONA1975252LV425/gff/data/TriTrypDB-68_Lsp.NamibiaMPRONA1975252LV425.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Ltarentolae/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Ltarentolae/fasta/data/, Status Code: 404
+Genome Not Found for Ltarentolae/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Ltarentolae/gff/data/, Status Code: 404
+Annotation Not Found for Ltarentolae/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LtarentolaeParrotTarII/
+Downloading https://tritrypdb.org/common/downloads/release-68/LtarentolaeParrotTarII/fasta/data/TriTrypDB-68_LtarentolaeParrotTarII_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LtarentolaeParrotTarII/gff/data/TriTrypDB-68_LtarentolaeParrotTarII.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LtarentolaeParrotTarII2019/
+Downloading https://tritrypdb.org/common/downloads/release-68/LtarentolaeParrotTarII2019/fasta/data/TriTrypDB-68_LtarentolaeParrotTarII2019_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LtarentolaeParrotTarII2019/gff/data/TriTrypDB-68_LtarentolaeParrotTarII2019.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Ltropica/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Ltropica/fasta/data/, Status Code: 404
+Genome Not Found for Ltropica/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Ltropica/gff/data/, Status Code: 404
+Annotation Not Found for Ltropica/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LtropicaL590/
+Downloading https://tritrypdb.org/common/downloads/release-68/LtropicaL590/fasta/data/TriTrypDB-68_LtropicaL590_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LtropicaL590/gff/data/TriTrypDB-68_LtropicaL590.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Lturanica/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lturanica/fasta/data/, Status Code: 404
+Genome Not Found for Lturanica/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Lturanica/gff/data/, Status Code: 404
+Annotation Not Found for Lturanica/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/LturanicaLEM423/
+Downloading https://tritrypdb.org/common/downloads/release-68/LturanicaLEM423/fasta/data/TriTrypDB-68_LturanicaLEM423_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/LturanicaLEM423/gff/data/TriTrypDB-68_LturanicaLEM423.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Pconfusum/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Pconfusum/fasta/data/, Status Code: 404
+Genome Not Found for Pconfusum/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Pconfusum/gff/data/, Status Code: 404
+Annotation Not Found for Pconfusum/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/PconfusumCUL13/
+Downloading https://tritrypdb.org/common/downloads/release-68/PconfusumCUL13/fasta/data/TriTrypDB-68_PconfusumCUL13_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/PconfusumCUL13/gff/data/TriTrypDB-68_PconfusumCUL13.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Phertigi/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Phertigi/fasta/data/, Status Code: 404
+Genome Not Found for Phertigi/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Phertigi/gff/data/, Status Code: 404
+Annotation Not Found for Phertigi/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/PhertigiMCOEPA1965C119/
+Downloading https://tritrypdb.org/common/downloads/release-68/PhertigiMCOEPA1965C119/fasta/data/TriTrypDB-68_PhertigiMCOEPA1965C119_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/PhertigiMCOEPA1965C119/gff/data/TriTrypDB-68_PhertigiMCOEPA1965C119.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Tbrucei/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Tbrucei/fasta/data/, Status Code: 404
+Genome Not Found for Tbrucei/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Tbrucei/gff/data/, Status Code: 404
+Annotation Not Found for Tbrucei/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TbruceiEATRO1125/
+Downloading https://tritrypdb.org/common/downloads/release-68/TbruceiEATRO1125/fasta/data/TriTrypDB-68_TbruceiEATRO1125_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TbruceiEATRO1125/gff/data/TriTrypDB-68_TbruceiEATRO1125.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TbruceigambienseDAL972/
+Downloading https://tritrypdb.org/common/downloads/release-68/TbruceigambienseDAL972/fasta/data/TriTrypDB-68_TbruceigambienseDAL972_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TbruceigambienseDAL972/gff/data/TriTrypDB-68_TbruceigambienseDAL972.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TbruceiLister427/
+Downloading https://tritrypdb.org/common/downloads/release-68/TbruceiLister427/fasta/data/TriTrypDB-68_TbruceiLister427_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TbruceiLister427/gff/data/TriTrypDB-68_TbruceiLister427.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TbruceiLister427_2018/
+Downloading https://tritrypdb.org/common/downloads/release-68/TbruceiLister427_2018/fasta/data/TriTrypDB-68_TbruceiLister427_2018_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TbruceiLister427_2018/gff/data/TriTrypDB-68_TbruceiLister427_2018.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TbruceiTREU927/
+Downloading https://tritrypdb.org/common/downloads/release-68/TbruceiTREU927/fasta/data/TriTrypDB-68_TbruceiTREU927_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TbruceiTREU927/gff/data/TriTrypDB-68_TbruceiTREU927.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Tcongolense/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Tcongolense/fasta/data/, Status Code: 404
+Genome Not Found for Tcongolense/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Tcongolense/gff/data/, Status Code: 404
+Annotation Not Found for Tcongolense/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcongolenseIL3000/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcongolenseIL3000/fasta/data/TriTrypDB-68_TcongolenseIL3000_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TcongolenseIL3000/gff/data/TriTrypDB-68_TcongolenseIL3000.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcongolenseIL3000_2019/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcongolenseIL3000_2019/fasta/data/TriTrypDB-68_TcongolenseIL3000_2019_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TcongolenseIL3000_2019/gff/data/TriTrypDB-68_TcongolenseIL3000_2019.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcongolenseTc1_148/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcongolenseTc1_148/fasta/data/TriTrypDB-68_TcongolenseTc1_148_Genome.fasta
+Annotation Not Found for TcongolenseTc1_148/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Tcruzi/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Tcruzi/fasta/data/, Status Code: 404
+Genome Not Found for Tcruzi/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Tcruzi/gff/data/, Status Code: 404
+Annotation Not Found for Tcruzi/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Tcruzi231/
+Downloading https://tritrypdb.org/common/downloads/release-68/Tcruzi231/fasta/data/TriTrypDB-68_Tcruzi231_Genome.fasta
+Annotation Not Found for Tcruzi231/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziBerenice/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziBerenice/fasta/data/TriTrypDB-68_TcruziBerenice_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziBerenice/gff/data/TriTrypDB-68_TcruziBerenice.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziBrazilA4/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziBrazilA4/fasta/data/TriTrypDB-68_TcruziBrazilA4_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziBrazilA4/gff/data/TriTrypDB-68_TcruziBrazilA4.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziBug2148/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziBug2148/fasta/data/TriTrypDB-68_TcruziBug2148_Genome.fasta
+Annotation Not Found for TcruziBug2148/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziCL/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziCL/fasta/data/TriTrypDB-68_TcruziCL_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziCL/gff/data/TriTrypDB-68_TcruziCL.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziCLBrener/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziCLBrener/fasta/data/TriTrypDB-68_TcruziCLBrener_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziCLBrener/gff/data/TriTrypDB-68_TcruziCLBrener.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziCLBrenerEsmeraldo-like/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziCLBrenerEsmeraldo-like/fasta/data/TriTrypDB-68_TcruziCLBrenerEsmeraldo-like_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziCLBrenerEsmeraldo-like/gff/data/TriTrypDB-68_TcruziCLBrenerEsmeraldo-like.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziCLBrenerNon-Esmeraldo-like/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziCLBrenerNon-Esmeraldo-like/fasta/data/TriTrypDB-68_TcruziCLBrenerNon-Esmeraldo-like_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziCLBrenerNon-Esmeraldo-like/gff/data/TriTrypDB-68_TcruziCLBrenerNon-Esmeraldo-like.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziDm28c2014/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziDm28c2014/fasta/data/TriTrypDB-68_TcruziDm28c2014_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziDm28c2014/gff/data/TriTrypDB-68_TcruziDm28c2014.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziDm28c2017/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziDm28c2017/fasta/data/TriTrypDB-68_TcruziDm28c2017_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziDm28c2017/gff/data/TriTrypDB-68_TcruziDm28c2017.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziDm28c2018/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziDm28c2018/fasta/data/TriTrypDB-68_TcruziDm28c2018_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziDm28c2018/gff/data/TriTrypDB-68_TcruziDm28c2018.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziEsmeraldo/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziEsmeraldo/fasta/data/TriTrypDB-68_TcruziEsmeraldo_Genome.fasta
+Annotation Not Found for TcruziEsmeraldo/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziG/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziG/fasta/data/TriTrypDB-68_TcruziG_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziG/gff/data/TriTrypDB-68_TcruziG.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziJRcl4/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziJRcl4/fasta/data/TriTrypDB-68_TcruziJRcl4_Genome.fasta
+Annotation Not Found for TcruziJRcl4/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruzimarinkelleiB7/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruzimarinkelleiB7/fasta/data/TriTrypDB-68_TcruzimarinkelleiB7_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruzimarinkelleiB7/gff/data/TriTrypDB-68_TcruzimarinkelleiB7.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziS11/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziS11/fasta/data/TriTrypDB-68_TcruziS11_Genome.fasta
+Annotation Not Found for TcruziS11/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziS15/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziS15/fasta/data/TriTrypDB-68_TcruziS15_Genome.fasta
+Annotation Not Found for TcruziS15/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziS154a/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziS154a/fasta/data/TriTrypDB-68_TcruziS154a_Genome.fasta
+Annotation Not Found for TcruziS154a/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziS162a/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziS162a/fasta/data/TriTrypDB-68_TcruziS162a_Genome.fasta
+Annotation Not Found for TcruziS162a/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziS23b/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziS23b/fasta/data/TriTrypDB-68_TcruziS23b_Genome.fasta
+Annotation Not Found for TcruziS23b/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziS44a/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziS44a/fasta/data/TriTrypDB-68_TcruziS44a_Genome.fasta
+Annotation Not Found for TcruziS44a/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziS92a/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziS92a/fasta/data/TriTrypDB-68_TcruziS92a_Genome.fasta
+Annotation Not Found for TcruziS92a/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziSylvioX10-1-2012/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziSylvioX10-1-2012/fasta/data/TriTrypDB-68_TcruziSylvioX10-1-2012_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziSylvioX10-1-2012/gff/data/TriTrypDB-68_TcruziSylvioX10-1-2012.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziSylvioX10-1/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziSylvioX10-1/fasta/data/TriTrypDB-68_TcruziSylvioX10-1_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziSylvioX10-1/gff/data/TriTrypDB-68_TcruziSylvioX10-1.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziTCC/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziTCC/fasta/data/TriTrypDB-68_TcruziTCC_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziTCC/gff/data/TriTrypDB-68_TcruziTCC.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziTulacl2/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziTulacl2/fasta/data/TriTrypDB-68_TcruziTulacl2_Genome.fasta
+Annotation Not Found for TcruziTulacl2/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziY/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziY/fasta/data/TriTrypDB-68_TcruziY_Genome.fasta
+Annotation Not Found for TcruziY/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziYC6/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziYC6/fasta/data/TriTrypDB-68_TcruziYC6_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziYC6/gff/data/TriTrypDB-68_TcruziYC6.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziYcl2/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziYcl2/fasta/data/TriTrypDB-68_TcruziYcl2_Genome.fasta
+Annotation Not Found for TcruziYcl2/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziYcl4/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziYcl4/fasta/data/TriTrypDB-68_TcruziYcl4_Genome.fasta
+Annotation Not Found for TcruziYcl4/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TcruziYcl6/
+Downloading https://tritrypdb.org/common/downloads/release-68/TcruziYcl6/fasta/data/TriTrypDB-68_TcruziYcl6_Genome.fasta
+Annotation Not Found for TcruziYcl6/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TequiperdumOVI/
+Downloading https://tritrypdb.org/common/downloads/release-68/TequiperdumOVI/fasta/data/TriTrypDB-68_TequiperdumOVI_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TequiperdumOVI/gff/data/TriTrypDB-68_TequiperdumOVI.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TevansiSTIB805/
+Downloading https://tritrypdb.org/common/downloads/release-68/TevansiSTIB805/fasta/data/TriTrypDB-68_TevansiSTIB805_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TevansiSTIB805/gff/data/TriTrypDB-68_TevansiSTIB805.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Tgrayi/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Tgrayi/fasta/data/, Status Code: 404
+Genome Not Found for Tgrayi/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Tgrayi/gff/data/, Status Code: 404
+Annotation Not Found for Tgrayi/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TgrayiANR4/
+Downloading https://tritrypdb.org/common/downloads/release-68/TgrayiANR4/fasta/data/TriTrypDB-68_TgrayiANR4_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TgrayiANR4/gff/data/TriTrypDB-68_TgrayiANR4.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TmelophagiumStKilda/
+Downloading https://tritrypdb.org/common/downloads/release-68/TmelophagiumStKilda/fasta/data/TriTrypDB-68_TmelophagiumStKilda_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TmelophagiumStKilda/gff/data/TriTrypDB-68_TmelophagiumStKilda.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Trangeli/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Trangeli/fasta/data/, Status Code: 404
+Genome Not Found for Trangeli/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Trangeli/gff/data/, Status Code: 404
+Annotation Not Found for Trangeli/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TrangeliSC58/
+Downloading https://tritrypdb.org/common/downloads/release-68/TrangeliSC58/fasta/data/TriTrypDB-68_TrangeliSC58_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TrangeliSC58/gff/data/TriTrypDB-68_TrangeliSC58.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Trypanosomatidae/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Trypanosomatidae/fasta/data/, Status Code: 404
+Genome Not Found for Trypanosomatidae/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Trypanosomatidae/gff/data/, Status Code: 404
+Annotation Not Found for Trypanosomatidae/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TrypanosomatidaeReference/
+Failed to access https://tritrypdb.org/common/downloads/release-68/TrypanosomatidaeReference/fasta/data/, Status Code: 404
+Genome Not Found for TrypanosomatidaeReference/
+Failed to access https://tritrypdb.org/common/downloads/release-68/TrypanosomatidaeReference/gff/data/, Status Code: 404
+Annotation Not Found for TrypanosomatidaeReference/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Ttheileri/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Ttheileri/fasta/data/, Status Code: 404
+Genome Not Found for Ttheileri/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Ttheileri/gff/data/, Status Code: 404
+Annotation Not Found for Ttheileri/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TtheileriEdinburgh/
+Downloading https://tritrypdb.org/common/downloads/release-68/TtheileriEdinburgh/fasta/data/TriTrypDB-68_TtheileriEdinburgh_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TtheileriEdinburgh/gff/data/TriTrypDB-68_TtheileriEdinburgh.gff
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/Tvivax/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Tvivax/fasta/data/, Status Code: 404
+Genome Not Found for Tvivax/
+Failed to access https://tritrypdb.org/common/downloads/release-68/Tvivax/gff/data/, Status Code: 404
+Annotation Not Found for Tvivax/
+Processing subfolder: https://tritrypdb.org/common/downloads/release-68/TvivaxY486/
+Downloading https://tritrypdb.org/common/downloads/release-68/TvivaxY486/fasta/data/TriTrypDB-68_TvivaxY486_AnnotatedCDSs.fasta
+Downloading https://tritrypdb.org/common/downloads/release-68/TvivaxY486/gff/data/TriTrypDB-68_TvivaxY486.gff
